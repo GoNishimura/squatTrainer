@@ -8,4 +8,4 @@ Using Arduino Nano and Processing, this system tells you if you are doing squats
 <img src="https://github.com/GoNishimura/images/blob/master/最終発表のコピー2-1.png">
 
 説明資料
-<img src="https://github.com/GoNishimura/images/blob/master/概要.pdf">
+https://github.com/GoNishimura/images/blob/master/概要.pdf
