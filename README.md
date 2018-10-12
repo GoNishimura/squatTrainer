@@ -3,6 +3,13 @@ Using Arduino Nano and Processing, this system tells you if you are doing squats
 
 「電子おもちゃワークショップ」の授業の最終成果物として「加速度センサによる正しいスクワット指導システム」を作りました。これは、体に取り付けた２つの加速度センサから傾きをセンシングし、Processingでビジュアライズするというものです。詳しい説明については「最終発表.pdf」を参照してほしい他、final_projectというファイルにはArduinoのプログラムが、processingForAdxl345にはProcessingのプログラムが入っています。
 
+環境
+<li>
+<ul>macOS High Sierra 10.13.6</ul>
+<ul>Arduino 1.8.5</ul>
+<ul>Processing 3.3.7</ul>
+</li>
+
 動作
 
 <img src="https://github.com/GoNishimura/images/blob/master/ap.gif">
